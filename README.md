@@ -90,7 +90,7 @@ Nmap · Metasploit Framework · snmpwalk · AD Explorer (Sysinternals) · RPCSca
  Connect
 If you're studying for CEH, working in cybersecurity, or hiring for internships/roles — I'd love to connect.
 
- LinkedIn: linkedin.com/in/YOUR-HANDLE
+ LinkedIn: linkedin.com/in/shivamkrj
  Email: becomeshivamjha@gmail.com
  Open to: Cybersecurity internships (Summer 2025) & full-time roles (May 2027)
 
