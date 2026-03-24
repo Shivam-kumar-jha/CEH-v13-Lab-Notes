@@ -83,8 +83,6 @@ Nmap · Metasploit Framework · snmpwalk · AD Explorer (Sysinternals) · RPCSca
 
  C|CT — Certified Cybersecurity Technician (EC-Council) — Completed
  C|EH — Certified Ethical Hacker v13 (EC-Council) — In Progress
- C|SA — Certified SOC Analyst — Planned (Feb 2026)
- E|CIH — Certified Incident Handler — Planned (Apr 2026)
 
 
  Connect
@@ -92,7 +90,7 @@ If you're studying for CEH, working in cybersecurity, or hiring for internships/
 
  LinkedIn: linkedin.com/in/shivamkrj
  Email: becomeshivamjha@gmail.com
- Open to: Cybersecurity internships (Summer 2025) & full-time roles (May 2027)
+ Open to: Cybersecurity internships (Summer/Winter 2026) & full-time roles (May 2027)
 
 
 More modules coming as I progress through the course. Watch/Star ⭐ to get notified.
